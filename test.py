@@ -10,7 +10,7 @@ load_dotenv()
 
 # Configure Gemini API with the API key
 try:
-    genai.configure(api_key="AIzaSyDsigaU8iA_UYBLZSLrkbpv9J6sabJjH2g")
+    genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 except Exception as e:
     st.error(f"Error in configuring Generative AI: {str(e)}")
 
