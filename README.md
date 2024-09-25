@@ -72,10 +72,6 @@ Once all dependencies are installed, and the environment variables are set up, r
 streamlit run app.py
 ```
 
-### 6. Issue?
+### 7. Demo
 
-Koi dikkat ho to : 
-
-```bash
-Contact krlo mujhe
-```
+For more information and live demo, visit: https://huggingface.co/spaces/utkarsh00010/project_final
