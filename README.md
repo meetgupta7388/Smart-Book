@@ -74,4 +74,4 @@ streamlit run app.py
 
 ### 6. Demo
 
-For more information and live demo, visit: https://huggingface.co/spaces/utkarsh00010/project_final
+For more information and live demo, visit: https://huggingface.co/spaces/meetgupta007/Smart_Book
